@@ -1,7 +1,21 @@
-### Hi there 👋
+### Hello World!
+Ambitious academic Australian amateur programmer
+* Currently Finishing Last Year of Secondary School. 
+* Looking to contribute to the wider world of open source.
+* Attempting to learn:
+  * .Net Ecosystem (beyond C# that is)
+  * Python and R for Statistics
+  * Functional Programming Techniques
+*Admittedly underutilising github.
+#Languages: (in order of aptitude)
+* C#
+* GML
+* Processing
+* Python
+* English 😅
+
+  
 [![Geagg427's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geagg427)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 <!--
