@@ -7,7 +7,7 @@ Ambitious academic Australian amateur programmer
   * Python and R for Statistics
   * Functional Programming Techniques
 *Admittedly underutilising github.
-# Languages: (in order of aptitude)
+#### Languages: (in order of aptitude)
 * C#
 * GML
 * Processing
