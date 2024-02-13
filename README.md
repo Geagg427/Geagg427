@@ -1,11 +1,12 @@
 ### Hello World!
 Ambitious academic Australian amateur programmer
-* Currently Finishing Last Year of Secondary School. 
+* Currently Entering First Year of Computer Science in University
 * Looking to contribute to the wider world of open source.
 * Attempting to learn:
   * .Net Ecosystem (beyond C# that is)
-  * Python and R for Statistics
+  * Rust/C++
   * Functional Programming Techniques
+  * Database Driven Design
 *Admittedly underutilising github.
 #### Languages: (in order of aptitude)
 * C#
@@ -13,7 +14,6 @@ Ambitious academic Australian amateur programmer
 * Processing
 * Python
 * English 😅
-
   
 [![Geagg427's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geagg427)](https://github.com/anuraghazra/github-readme-stats)
 
